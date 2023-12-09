@@ -1,0 +1,58 @@
+table{
+    border-bottom:2px solid white;
+border-collapse: collapse;
+width: 70%;
+background-color: rgb(130, 246, 207);
+font-size: 30px;
+
+margin: 100px 230px;
+box-shadow: 5px 5px 15px 3px black;
+border-radius: 35px;
+
+}
+
+body{
+
+    background:
+        linear-gradient(red, transparent),
+        linear-gradient(to top left, lime, transparent),
+        linear-gradient(to top right, blue, transparent);
+    background-blend-mode: screen;
+
+    height: 1550px;
+}
+
+th,  td  { border-bottom:2px solid rgb(10, 1, 1);
+    padding:10px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+
+}
+tr:hover{
+    background-color:rgb(45, 229, 168); 
+}
+
+th{
+    font-size: 40px; text-shadow:5px 5px 8px   rgba(0, 0, 0, 0.369);}
+
+
+h1{font-size: 70px; 
+text-align: center;
+color: #0c132e;
+ font-family: 'Anton', sans-serif;
+ text-shadow: 5px 5px 11px  white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
